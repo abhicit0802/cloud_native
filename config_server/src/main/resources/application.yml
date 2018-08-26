@@ -1,5 +1,5 @@
 server:
-  port: 9090
+  port: 8888
 
 logging:
   level:
@@ -13,4 +13,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/spring-cloud-samples/config-repo
+          uri: https://github.com/abhicit0802/configs
