@@ -1,5 +1,5 @@
 rootProject.name = 'cloud_native'
 include 'discovery_server'
 include 'config_server'
-include 'bank'
+include 'search-sevice'
 
