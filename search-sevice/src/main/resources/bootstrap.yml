@@ -1,6 +1,9 @@
 spring:
   application:
     name: searchservice
+  config:
+    discovery:
+      enabled: true
 
 server:
   port: 8080
