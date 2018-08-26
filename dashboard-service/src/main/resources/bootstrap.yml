@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: dashboardservice
+
+server:
+  port: 8081
+
+security:
+  basic:
+    enable: false
+
+management:
+  security:
+    enabled: false

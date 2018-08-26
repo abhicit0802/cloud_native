@@ -1,6 +1,6 @@
-package com.abhinav.search;
+package com.abhinav;
 
-public class Employee {
+public class EmployeeInfo {
     private Long employeeId;
     private String name;
     private String practiceArea;
